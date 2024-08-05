@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: rgb(16, 14, 37);
+    background-color: rgb(43, 11, 11);
     color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
@@ -33,4 +33,20 @@
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+}
+
+.escola-conteudo {
+    width: 35%;
+}
+
+.escola-titulo {
+    padding: 24px 0;
+}
+
+.estudante {
+    padding: 24px 0;
+}
+
+.estudante-imagem {
+    width: 120px;
 }
