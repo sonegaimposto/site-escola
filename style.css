@@ -19,7 +19,9 @@ body {
 }
 
 .cabecalho-imagem {
-    width: 100%;
+    width: 100px;
+    height: 90px;
+    border-radius: 50%;
 }
 
 .cabecalho-lista-item {
