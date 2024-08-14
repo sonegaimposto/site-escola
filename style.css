@@ -84,3 +84,10 @@ body {
     color: white;
     text-align: center;
 }
+
+.rodape-icone {
+    display: flex;
+    margin: 0 auto;
+    width: 30px;
+    padding: 4px 8px;
+}
